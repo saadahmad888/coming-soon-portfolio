@@ -1187,14 +1187,14 @@ body.vegas-container > .vegas-slide {
 
 .btn-resume{
   background-color: #1f64c5;
-  color: #fff;
+  color: #fff!important;
   border: 1px solid transparent;
   border-radius: 50px!important;
   padding: 10px 30px!important;
 }
 
 .btn-resume:hover{
-  color: #1f64c5;
+  color: #1f64c5!important;
   background-color: transparent;
   border-color: #1f64c5;
 }
